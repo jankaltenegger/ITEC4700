@@ -1,0 +1,16 @@
+jupyter
+numpy
+matplotlib
+pandas
+scipy
+scikit-learn
+xgboost
+seaborn
+joblib
+h5py
+Pillow
+tensorflow
+keras-tuner
+scikeras[tensorflow]
+
+
